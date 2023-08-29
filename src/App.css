@@ -1,0 +1,25 @@
+.ul {
+  display: flex;
+  align-items: flex-start;
+}
+
+.container {
+  flex: 33.33%;
+  padding: 20px;
+}
+
+img {
+
+  max-width: 20%;
+  max-height: 20%;
+}
+
+btn {
+  display: flex;
+  align-items: flex-start;
+
+}
+
+body {
+  display: flex;
+}
